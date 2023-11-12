@@ -35,6 +35,7 @@ The **secretium** project has a number of repositories, some important ones incl
 <!-- Links -->
 
 [vic_shostak_url]: https://github.com/koddr
+[truewebartisans_url]: https://github.com/truewebartisans
 [repo_contributing_url]: https://github.com/secretium/.github/blob/main/CONTRIBUTING.md
 [docs_url]: https://docs.secretium.org
 
