@@ -2,9 +2,9 @@
 
 🔐 A smart self-hosted tool for sharing secrets with your friends.
 
-Project originally developed in the middle of 2023 by [Vic Shóstak][vic_shostak_url] and the [True web artisans][truewebartisans_url] team (_who still works on it today_).
+Project originally developed in 2023 by [Vic Shóstak][vic_shostak_url] and the [True Web Artisans][truewebartisans_url] team (_who still works on it today_).
 
-<img width="100%" alt="secretium logo" src="https://raw.githubusercontent.com/secretium/.github/main/images/secretium-banner-logo.svg">
+<img width="100%" alt="secretium logo" src="https://raw.githubusercontent.com/secretium/.github/main/images/secretium-project-banner.svg">
 
 ## Get started
 
@@ -35,8 +35,9 @@ The **secretium** project has a number of repositories, some important ones incl
 <!-- Links -->
 
 [vic_shostak_url]: https://github.com/koddr
+[truewebartisans_url]: https://github.com/truewebartisans
 [repo_contributing_url]: https://github.com/secretium/.github/blob/main/CONTRIBUTING.md
-[docs_url]: https://docs.secretium.org
+[docs_url]: https://secretium.org
 
 <!-- Repositories -->
 
