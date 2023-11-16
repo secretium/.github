@@ -18,8 +18,8 @@ Special thanks to all our GitHub contributors for bringing this project to life.
 
 > Today we're still missing contributors who have expertise in the following skills:
 >
-> - Creating content (writing understandable texts for README);
-> - Translating content (translate README to another languages);
+> - Creating content (writing understandable texts for README and official Docs);
+> - Translating content (translate README and official Docs to another languages);
 > - Go development (creating a new features, writing tests, etc.);
 > - Frontend development (creating a new templates with htmx and CSS frameworks).
 
