@@ -25,7 +25,7 @@ If you want to help us triage, you are very welcome to do so!
 To develop for the **Secretium** project, you will eventually need to become familiar with our processes and conventions. This section lists the documents that describe these methodologies. The following list is ordered: you are strongly recommended to go through these documents in the order presented.
 
 1. [Our code of conduct](CODE_OF_CONDUCT.md), which stipulates explicitly that everyone must be gracious, respectful, and professional. This also documents our conflict resolution policy and encourages people to ask questions.
-2. Strict following all community and developer-accepted style guides for the technologies and frameworks used in all **Secretium** projects. Technologies: [Go][go_url], [Docker][docker_url], [htmx][htmx_url], [HttpRouter][httprouter_url], [Tailwind CSS][tailwindcss_url].
+2. Strict following all community and developer-accepted style guides for the technologies and frameworks used in all **Secretium** projects. Technologies: [Go][go_url], [Docker][docker_url], [HttpRouter][httprouter_url], [Templ][ah_templ_url], [htmx][htmx_url], [Tailwind CSS][tailwindcss_url].
 3. Communication is in English (US). If this is not your native language, please use translators and text helpers when writing text (comments in code, PR descriptions, answers in Issues or Discussions, and so on). We ourselves use [LanguageTool][languagetool_url], [DeepL][deepl_url] and [Code Spell Checker][code_spell_checker_url] for VS Code and [Grazie lite][grazie_lite_url] for JetBrains IDEs.
 
 <!-- Links -->
@@ -35,6 +35,7 @@ To develop for the **Secretium** project, you will eventually need to become fam
 [go_url]: https://golang.org
 [docker_url]: https://docs.docker.com
 [httprouter_url]: https://github.com/julienschmidt/httprouter
+[ah_templ_url]: https://github.com/a-h/templ
 [htmx_url]: https://htmx.org
 [tailwindcss_url]: https://tailwindcss.com
 [languagetool_url]: https://languagetool.org
