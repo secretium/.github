@@ -21,7 +21,7 @@ Special thanks to all our GitHub contributors for bringing this project to life.
 > - Creating content (writing understandable texts for README and official Docs);
 > - Translating content (translate README and official Docs to another languages);
 > - Go development (creating a new features, writing tests, etc.);
-> - Frontend development (creating a new templates with htmx and CSS frameworks).
+> - Frontend development (creating a new templates with htmx and Tailwind CSS framework).
 
 If you are available to help on a _voluntary basis_, please contact to [@koddr][vic_shostak_url].
 
